@@ -54,9 +54,7 @@ print(acc1.account_holder)
 print(acc1.account_number)
 acc1.deposit(1000)
 acc1.show_balance()
-
 acc1.withdraw(3000)
-
 acc1.show_balance()
 acc1.show_transactions()
 
